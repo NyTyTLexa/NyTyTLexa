@@ -1,0 +1,75 @@
+{
+  "login": "NyTyTLexa",
+  "name": "Алексей Горбатенко",
+  "eyebrow": "BACKEND-РАЗРАБОТЧИК · .NET",
+  "tagline": "ASP.NET CORE · POSTGRESQL · RABBITMQ · ИНТЕГРАЦИИ · БОТЫ",
+  "meta": "Москва · удалённо · в коммерческой разработке с 2023 года",
+  "chips": [
+    { "label": "C#", "tone": "violet" },
+    { "label": ".NET", "tone": "violet" },
+    { "label": "ASP.NET Core", "tone": "violet" },
+    { "label": "EF Core", "tone": "violet" },
+    { "label": "PostgreSQL", "tone": "cyan" },
+    { "label": "RabbitMQ", "tone": "cyan" },
+    { "label": "Redis", "tone": "cyan" },
+    { "label": "Docker", "tone": "cyan" },
+    { "label": "WPF", "tone": "neutral" },
+    { "label": "Avalonia", "tone": "neutral" },
+    { "label": "TypeScript", "tone": "neutral" },
+    { "label": "Python", "tone": "neutral" }
+  ],
+  "since": "2023",
+  "tests": "440+",
+  "projects": [
+    {
+      "repo": "AmneziaAccessBot",
+      "title": "Amnezia Access Bot",
+      "description": "Telegram- и VK-бот с Mini App: выдача доступа к серверу AmneziaWG, биллинг, поддержка",
+      "language": "C#",
+      "metric": "220 тестов"
+    },
+    {
+      "repo": "AvitoRadar",
+      "title": "AvitoRadar",
+      "description": "Бот и Mini App: новые объявления и изменения цен по сохранённым поискам",
+      "language": "C#",
+      "metric": "148 тестов"
+    },
+    {
+      "repo": "CallsCenter-ASR",
+      "title": "CallsCenter ASR",
+      "description": "Распознавание речи в звонках на Qwen ASR: realtime, Asterisk, Mango Office",
+      "language": "Python",
+      "metric": "74 теста"
+    },
+    {
+      "repo": "AI-Feature-Analysis",
+      "title": "AI Feature Analysis",
+      "description": "Описание фичи, тест-план и тестовый пайплайн по git diff на каждый PR",
+      "language": "Python",
+      "metric": "без зависимостей"
+    },
+    {
+      "repo": "ImageObfuscator-Avalonia",
+      "title": "ImageObfuscator",
+      "description": "Пакетная уникализация фото на Avalonia с выгрузкой на Яндекс.Диск",
+      "language": "C#",
+      "metric": "25 фото за 3 с"
+    },
+    {
+      "repo": "Library-WPF-PostgreSQL",
+      "title": "Библиотека",
+      "description": "Информационная система: WPF-клиент, правила целостности в PostgreSQL",
+      "language": "C#",
+      "metric": "45 ограничений в БД"
+    },
+    {
+      "repo": "VibeID-Auth",
+      "title": "Vibe ID",
+      "description": "BFF-авторизация для SPA: ASP.NET Core, Keycloak, сессии в Redis",
+      "language": "C#",
+      "metric": "OIDC + PKCE",
+      "hidden": true
+    }
+  ]
+}

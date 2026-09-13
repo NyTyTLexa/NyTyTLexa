@@ -1,0 +1,11 @@
+{
+  "name": "nytytlexa-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node .github/scripts/generate-profile.mjs"
+  },
+  "dependencies": {
+    "opentype.js": "1.3.4"
+  }
+}

@@ -23,22 +23,28 @@
   <img src="./.github/assets/card-CallsCenter-ASR.svg" alt="CallsCenter ASR: Распознавание речи в звонках на Qwen ASR: realtime, Asterisk, Mango Office" width="100%">
 </picture></a>
 </td><td width="50%" valign="top">
+<a href="https://github.com/NyTyTLexa/OmniScribe"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/card-OmniScribe-light.svg">
+  <img src="./.github/assets/card-OmniScribe.svg" alt="OmniScribe: Запись встреч в Яндекс Телемосте и транскрибация аудио: Playwright, whisper.cpp" width="100%">
+</picture></a>
+</td></tr>
+<tr><td width="50%" valign="top">
 <a href="https://github.com/NyTyTLexa/AI-Feature-Analysis"><picture>
   <source media="(prefers-color-scheme: light)" srcset="./.github/assets/card-AI-Feature-Analysis-light.svg">
   <img src="./.github/assets/card-AI-Feature-Analysis.svg" alt="AI Feature Analysis: Описание фичи, тест-план и тестовый пайплайн по git diff на каждый PR" width="100%">
 </picture></a>
-</td></tr>
-<tr><td width="50%" valign="top">
+</td><td width="50%" valign="top">
 <a href="https://github.com/NyTyTLexa/ImageObfuscator-Avalonia"><picture>
   <source media="(prefers-color-scheme: light)" srcset="./.github/assets/card-ImageObfuscator-Avalonia-light.svg">
   <img src="./.github/assets/card-ImageObfuscator-Avalonia.svg" alt="ImageObfuscator: Пакетная уникализация фото на Avalonia с выгрузкой на Яндекс.Диск" width="100%">
 </picture></a>
-</td><td width="50%" valign="top">
+</td></tr>
+<tr><td width="50%" valign="top">
 <a href="https://github.com/NyTyTLexa/Library-WPF-PostgreSQL"><picture>
   <source media="(prefers-color-scheme: light)" srcset="./.github/assets/card-Library-WPF-PostgreSQL-light.svg">
   <img src="./.github/assets/card-Library-WPF-PostgreSQL.svg" alt="Библиотека: Информационная система: WPF-клиент, правила целостности в PostgreSQL" width="100%">
 </picture></a>
-</td></tr>
+</td><td width="50%"></td></tr>
 </table>
 
 </div>

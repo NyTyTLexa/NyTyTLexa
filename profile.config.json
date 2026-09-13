@@ -43,6 +43,13 @@
       "metric": "74 теста"
     },
     {
+      "repo": "OmniScribe",
+      "title": "OmniScribe",
+      "description": "Запись встреч в Яндекс Телемосте и транскрибация аудио: Playwright, whisper.cpp",
+      "language": "C#",
+      "metric": "WebRTC → 16 кГц"
+    },
+    {
       "repo": "AI-Feature-Analysis",
       "title": "AI Feature Analysis",
       "description": "Описание фичи, тест-план и тестовый пайплайн по git diff на каждый PR",

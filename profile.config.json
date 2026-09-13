@@ -64,6 +64,13 @@
       "metric": "25 фото за 3 с"
     },
     {
+      "repo": "Kvarts",
+      "title": "Кварц",
+      "description": "Автоматизация закупок: генерация КП по четырём сценариям, Keycloak, YARP",
+      "language": "C#",
+      "metric": "4 сценария КП"
+    },
+    {
       "repo": "Library-WPF-PostgreSQL",
       "title": "Библиотека",
       "description": "Информационная система: WPF-клиент, правила целостности в PostgreSQL",

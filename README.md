@@ -40,11 +40,16 @@
 </picture></a>
 </td></tr>
 <tr><td width="50%" valign="top">
+<a href="https://github.com/NyTyTLexa/Kvarts"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/card-Kvarts-light.svg">
+  <img src="./.github/assets/card-Kvarts.svg" alt="Кварц: Автоматизация закупок: генерация КП по четырём сценариям, Keycloak, YARP" width="100%">
+</picture></a>
+</td><td width="50%" valign="top">
 <a href="https://github.com/NyTyTLexa/Library-WPF-PostgreSQL"><picture>
   <source media="(prefers-color-scheme: light)" srcset="./.github/assets/card-Library-WPF-PostgreSQL-light.svg">
   <img src="./.github/assets/card-Library-WPF-PostgreSQL.svg" alt="Библиотека: Информационная система: WPF-клиент, правила целостности в PostgreSQL" width="100%">
 </picture></a>
-</td><td width="50%"></td></tr>
+</td></tr>
 </table>
 
 </div>
